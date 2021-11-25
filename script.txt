@@ -1,0 +1,6 @@
+     ID          NUMBER , 
+     BRAND       VARCHAR2 (20) , 
+     MODEL       NUMBER , 
+     CATEGORY_ID NUMBER , 
+     NAME        VARCHAR2 (4000) 
+  
